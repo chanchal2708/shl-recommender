@@ -1,0 +1,11 @@
+Assessment Name,URL,Remote Testing Support,Adaptive/IRT Support,Duration,Test Type
+cognitive ability test,https://www.shl.com/cognitive-ability,Yes,Yes,30,Cognitive
+personality test,https://www.shl.com/personality-test,Yes,No,45,Personality
+technical skills test,https://www.shl.com/technical-skills,No,Yes,60,Technical
+leadership assessment,https://www.shl.com/leadership-assessment,Yes,No,40,Leadership
+sales aptitude test,https://www.shl.com/sales-aptitude,Yes,Yes,35,Aptitude
+customer service test,https://www.shl.com/customer-service,No,No,25,Service
+project management test,https://www.shl.com/project-management,Yes,Yes,50,Management
+data analysis test,https://www.shl.com/data-analysis,Yes,No,45,Analytical
+communication skills test,https://www.shl.com/communication-skills,No,Yes,30,Communication
+problem solving test,https://www.shl.com/problem-solving,Yes,Yes,20,Problem Solving
